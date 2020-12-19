@@ -1,0 +1,21 @@
+body {
+  padding: 30px;
+}
+
+h2 {
+  font-family: "Hind Siliguri", sans-serif;
+  color: rgba(128, 6, 6, 0.479);
+}
+
+p {
+  font-family: "Padauk", sans-serif;
+  font-size: 18px;
+}
+
+footer {
+  text-align: center;
+}
+
+#instructions3 {
+  background-color: rgba(128, 6, 6, 0.479);
+}
